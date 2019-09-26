@@ -2,6 +2,7 @@
 /* CSS Document */
 body{
 	padding: 0;
+	margin: 0;
 	transition:all 0.4 ease;
 	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
 	
